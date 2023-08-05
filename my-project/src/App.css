@@ -1,4 +1,4 @@
-#root {
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +39,12 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,400;0,500;1,100;1,200;1,300;1,400&display=swap');
+
+
+body{
+  font-family: 'Poppins', sans- serif;
 }
