@@ -5,6 +5,8 @@ import Interior from './components/Interior'
 import Hero from './components/Hero.jsx'
 import Furniture from './components/Furniture.jsx'
 import Design from './components/Design.jsx'
+import Blog from './components/Blog'
+import About from './components/About'
 
 function App() {
  
@@ -20,6 +22,8 @@ function App() {
     <Furniture/>
     <Design/>
     <Interior/>
+    <Blog/>
+    <About/>
     </>
   )
 }
