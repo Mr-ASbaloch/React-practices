@@ -9,7 +9,7 @@ function App() {
     <>
      
      <h1 className="text-3xl font-bold underline text-center">
-      Hello world!
+      Hello world! welcome to us
     </h1>
     </>
   )
