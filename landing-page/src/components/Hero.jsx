@@ -4,7 +4,9 @@
   function Hero(params) {
     return (
         <>
-        welcome
+         <div>
+            <img src="\src\assets\image 1.png" alt="img" className='w-full mt-3 opacity-70 hover:opacity-100' />
+         </div>
         </>
     )
     
