@@ -5,7 +5,9 @@ const Community = () => {
     <div className="md:px-[5%] mt-10 md:mt-11 mx-w-[1024px] md:mb-10">
       <div>
         <div>
-          <h2 className="text-[#4CAF4F] text-2xl font-bold mb-5 capitalize">Our community </h2>
+          <h2 className="text-[#4CAF4F] text-2xl font-bold mb-5 capitalize">
+            Our community{" "}
+          </h2>
           <h1 className="text-center mt-1">
             Manage your entire community in a single system
           </h1>
