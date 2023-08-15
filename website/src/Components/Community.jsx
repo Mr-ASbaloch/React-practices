@@ -16,7 +16,7 @@ const Community = () => {
         <div className="flex flex-wrap mt-5 lg:justify-between">
           <div className="w-full p-5 shadow-lg rounded-md m-2 lg:w-[25%] ">
             <img
-              src="public/assets/Icon (1).png"
+              src="assets/Icon (1).png"
               alt="icon"
               className="m-auto"
             />
@@ -28,7 +28,7 @@ const Community = () => {
           </div>
           <div className="w-full p-5  rounded-md m-2 lg:w-[25%] shadow-lg">
             <img
-              src="public/assets/Icon (2).png"
+              src="assets/Icon (2).png"
               alt="icon"
               className="m-auto"
             />
@@ -40,8 +40,8 @@ const Community = () => {
           </div>
           <div className="w-full p-5 bg-slate-200 shadow-lg   rounded-md m-2 lg:w-[25%]">
             <img
-              src="public/assets/logo (2).png"
-              alt="icon"
+              src="assets/Icon (1).png"
+              alt="icon2"
               className="m-auto"
             />
             <h1 className="font-bold lg:mt-5 text-center">Clubs And Groups</h1>

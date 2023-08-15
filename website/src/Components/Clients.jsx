@@ -12,27 +12,27 @@ const Clients = () => {
         </div>
         <div className="flex justify-between md:p-2 mt-5 ">
           <img
-            src="public/assets/Logo (1).png"
+            src="assets/Logo (1).png"
             alt="logo"
             className="w-[30px]"
           />
           <img
-            src="public/assets/Logo (2).png"
+            src="assets/Logo (2).png"
             alt="logo"
             className="w-[30px]"
           />
           <img
-            src="public/assets/Logo (3).png"
+            src="assets/Logo (3).png"
             alt="logo"
             className="w-[30px]"
           />
           <img
-            src="public/assets/Logo (4).png"
+            src="assets/Logo (4).png"
             alt="logo"
             className="w-[30px]"
           />
           <img
-            src="public/assets/Logo (5).png"
+            src="assets/Logo (5).png"
             alt="logo"
             className="w-[30px]"
           />

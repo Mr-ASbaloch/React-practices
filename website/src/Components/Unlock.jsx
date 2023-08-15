@@ -5,7 +5,7 @@ const Unlock = () => {
     <div className="md:px-[5%] mt-10 md:mt-11 mx-w-[1024px] md:mb-10">
       <div className="md:flex w-full">
         <div className="w-full md:w-[45%]">
-          <img src="public/assets/Frame 35.png" alt="frame" />
+          <img src="assets/Frame 35.png" alt="frame" />
         </div>
         <div className="w-full md:w-[55%] mt-5 md:px-7 lg:p-10 md:text-left ">
           <h1 className="text-xl font-semibold ">

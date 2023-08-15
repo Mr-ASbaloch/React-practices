@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="lg:w-[40%] lg:p-5" >
          <h1 className="flex gap-2 items-center justify-center mt-5">
             <img
-              src="public/assets/Logo (1).png"
+              src="assets/Logo (1).png"
               alt="logo"
               className="w-[20px] h-[20px] items-center"
             />

@@ -21,7 +21,7 @@ function Calendar() {
           </button>
         </div>
         <div className="w-full md:w-[45%]">
-        <img src="public/assets/Unlock1.png" alt="frame" />
+        <img src="assets/Unlock1.png" alt="frame" />
       </div>
       </div>
     </div>

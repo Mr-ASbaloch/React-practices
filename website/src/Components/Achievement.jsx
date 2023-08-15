@@ -15,7 +15,7 @@ const Achievement = () => {
         <div className="flex flex-wrap justify-around mt-5 w-full  md:w-[45%] md:px-5">
           <div className="m-2 w-[30%] ">
             <img
-              src="public/assets/Icon (3).png"
+              src="assets/Icon (3).png"
               alt="icon"
               className="m-auto w-[25px]"
             />
@@ -24,7 +24,7 @@ const Achievement = () => {
           </div>
           <div className="m-2 w-[30%] ">
             <img
-              src="public/assets/Icon (4).png"
+              src="assets/Icon (4).png"
               alt="icon"
               className="m-auto w-[25px]"
             />
@@ -33,7 +33,7 @@ const Achievement = () => {
           </div>
           <div className="m-2 w-[30%] ">
             <img
-              src="public/assets/Icon (5).png"
+              src="assets/Icon (5).png"
               alt="icon"
               className="m-auto w-[25px]"
             />
@@ -42,7 +42,7 @@ const Achievement = () => {
           </div>
           <div className="m-2 w-[30%] ">
             <img
-              src="public/assets/Icon (1).png"
+              src="assets/Icon (1).png"
               alt="icon"
               className="m-auto w-[25px]"
             />

@@ -2,18 +2,18 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between">
+    <div className=" justify-between hidden md:flex">
       <div className="flex">
-        <img src="public/assets/Icon (6).png" alt="logo" className="h-[30px] w-[30px]" />
+        <img src="assets/Icon (6).png" alt="logo" className="h-[30px] w-[30px]" />
         <p className="font-bold text-2xl">Nexcent</p>
       </div>
       <div >
-        <ul  className="flex items-center m-auto gap-10 mt-2 cursor-pointer ">
-        <li>Home</li>
-          <li>Service</li>
-          <li>Feature</li>
-          <li>Product</li>
-          <li>Testimonial</li>
+        <ul  className="flex items-center m-auto   mt-2 cursor-pointer md:gap-2 ">
+        <li className="mx-2">Home</li>
+          <li className="mx-2">Service</li>
+          <li className="mx-2">Feature</li>
+          <li className="mx-2">Product</li>
+          <li className="mx-2">Testimonial</li>
         </ul>
       </div>
       <div className="flex gap-2">
