@@ -21,6 +21,7 @@ function App() {
     <Community/>
     <Unlock/>
     <Achievement/>
+    {/* <App/> */}
     <Calendar/>
     <Demo/>
     <Footer/>
