@@ -9,7 +9,7 @@ import Demo from './Components/Demo'
 import Footer from './Components/Footer'
 import Hero from './Components/Hero'
 import Navbar from './Components/Navbar'
-import Slider from './Components/Slider'
+
 import Unlock from './Components/Unlock'
 
 
@@ -23,7 +23,7 @@ function App() {
     <Community/>
     <Unlock/>
     <Achievement/>
-   <Slider/>
+ 
   
     <Calendar/>
     <Demo/>
